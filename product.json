@@ -2,13 +2,20 @@
   "id": "car",
   "name": "Car",
   "tagline": "AI-powered productivity solution",
-  "description": "AI-powered car application built for Aurora Market. Modern, responsive design with SaaS monetization.",
+  "description": "Aurora ecosystem-ready project with a no-key-first local workflow.",
   "category": "productivity",
-  "tags": ["ai", "productivity"],
+  "tags": [
+    "ai",
+    "productivity"
+  ],
   "url": "https://auroramarket.org/car",
   "demo": "https://21leahcimhtiek-oss.github.io/car",
   "repo": "https://github.com/21leahcimhtiek-oss/car",
-  "stack": ["HTML", "CSS", "JavaScript"],
+  "stack": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
   "status": "mvp",
   "version": "1.0.0",
   "author": "Aurora Rayes LLC",
